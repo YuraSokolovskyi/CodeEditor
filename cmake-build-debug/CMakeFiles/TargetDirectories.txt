@@ -1,0 +1,5 @@
+D:/C++_projectsQt/CodeEditor/cmake-build-debug/CMakeFiles/CodeEditor.dir
+D:/C++_projectsQt/CodeEditor/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++_projectsQt/CodeEditor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/C++_projectsQt/CodeEditor/cmake-build-debug/CMakeFiles/CodeEditor_autogen_timestamp_deps.dir
+D:/C++_projectsQt/CodeEditor/cmake-build-debug/CMakeFiles/CodeEditor_autogen.dir

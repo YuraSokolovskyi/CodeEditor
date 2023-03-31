@@ -1,0 +1,26 @@
+# ninja log v5
+6	353	7019779638623325	CodeEditor_autogen/timestamp	c4303b039093c9f4
+6	353	7019779638623325	CodeEditor_autogen/mocs_compilation.cpp	c4303b039093c9f4
+384	4349	7019779678583566	CMakeFiles/CodeEditor.dir/mainwindow.cpp.obj	3c46b943e3cf9564
+6	353	7019779638623325	D:/C++_projectsQt/CodeEditor/cmake-build-debug/CodeEditor_autogen/timestamp	c4303b039093c9f4
+6	1561	7019781186730736	CodeEditor.exe	88d3cb0c461fa9a1
+6	353	7019779638623325	D:/C++_projectsQt/CodeEditor/cmake-build-debug/CodeEditor_autogen/mocs_compilation.cpp	c4303b039093c9f4
+363	4129	7019779676373588	CMakeFiles/CodeEditor.dir/CodeEditor_autogen/mocs_compilation.cpp.obj	f8c58f7ed3c9fda3
+367	3977	7019779674873248	CMakeFiles/CodeEditor.dir/main.cpp.obj	2e6766c04f325b78
+378	3897	7019779674053196	CMakeFiles/CodeEditor.dir/C_plus_highlighter.cpp.obj	90cb4a526f460897
+1809	5277	7019215570820256	CMakeFiles/CodeEditor.dir/LineCounter.cpp.obj	b03ce85e91626d9c
+2	755	7019782877719440	build.ninja	8e0557a1de57d7ab
+394	3288	7019779667973202	CMakeFiles/CodeEditor.dir/lineCounter.cpp.obj	e513f9ccb84960ba
+373	3861	7019779673683194	CMakeFiles/CodeEditor.dir/codeEditor.cpp.obj	4f392948e9f7a327
+1269	3998	7019377249585728	CMakeFiles/CodeEditor.dir/LineNumberArea.cpp.obj	ae3d51cdada2686b
+5	375	7019782927185362	CodeEditor_autogen/timestamp	c4303b039093c9f4
+5	375	7019782927185362	CodeEditor_autogen/mocs_compilation.cpp	c4303b039093c9f4
+5	375	7019782927185362	D:/C++_projectsQt/CodeEditor/cmake-build-debug/CodeEditor_autogen/timestamp	c4303b039093c9f4
+5	375	7019782927185362	D:/C++_projectsQt/CodeEditor/cmake-build-debug/CodeEditor_autogen/mocs_compilation.cpp	c4303b039093c9f4
+409	5170	7019782975120548	CMakeFiles/CodeEditor.dir/lineCounter.cpp.obj	e1e13244ad02316e
+402	5828	7019782981700508	CMakeFiles/CodeEditor.dir/C_plus_highlighter.cpp.obj	99227bf45688b4b8
+397	5882	7019782982230489	CMakeFiles/CodeEditor.dir/codeEditor.cpp.obj	676aed97ee04f555
+388	6033	7019782983730897	CMakeFiles/CodeEditor.dir/main.cpp.obj	f8f814d024557cac
+384	6204	7019782985450866	CMakeFiles/CodeEditor.dir/CodeEditor_autogen/mocs_compilation.cpp.obj	1f5909686795cdd2
+392	6583	7019782989250878	CMakeFiles/CodeEditor.dir/mainwindow.cpp.obj	592774754f7baa4
+6583	7248	7019782994200303	CodeEditor.exe	f455d4d0a3961c07
